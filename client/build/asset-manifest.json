@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53aace9b.css",
+    "main.js": "/static/js/main.b82f2c82.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/venue 11.png": "/static/media/venue 11.9022258243180f083930.png",
+    "static/media/sweet.jpeg": "/static/media/sweet.519da8bb60251049c1fa.jpeg",
+    "static/media/venue 5.png": "/static/media/venue 5.519da8bb60251049c1fa.png",
+    "static/media/food1.jpeg": "/static/media/food1.4896fb249b3c14523e0c.jpeg",
+    "static/media/venue 4.png": "/static/media/venue 4.4896fb249b3c14523e0c.png",
+    "static/media/venue 12.png": "/static/media/venue 12.30585bf349843a369a75.png",
+    "static/media/food.png": "/static/media/food.8d5799017b8826d7ed65.png",
+    "static/media/venue 7.png": "/static/media/venue 7.8d5799017b8826d7ed65.png",
+    "static/media/venue 3.png": "/static/media/venue 3.9870ea6f3552dfc9bd44.png",
+    "static/media/venue 6.png": "/static/media/venue 6.9facddffd5edf08293bc.png",
+    "static/media/venue 9.jpeg": "/static/media/venue 9.654f35eca548e9ea4003.jpeg",
+    "static/media/Rectangle 11.png": "/static/media/Rectangle 11.cabfdbf2b591fe0b4186.png",
+    "static/media/Lending.jpg": "/static/media/Lending.caa6f153c56da8b8e14e.jpg",
+    "static/media/venue 2.png": "/static/media/venue 2.ce522c176b26f380bc5d.png",
+    "static/media/venue 10.png": "/static/media/venue 10.d4f740a9b5ce46a1ddcf.png",
+    "static/media/main.png": "/static/media/main.3955bf086e520020724d.png",
+    "static/media/india-flag.svg": "/static/media/india-flag.fd5059e33ed9d173242467cd808835d1.svg",
+    "index.html": "/index.html",
+    "main.53aace9b.css.map": "/static/css/main.53aace9b.css.map",
+    "main.b82f2c82.js.map": "/static/js/main.b82f2c82.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53aace9b.css",
+    "static/js/main.b82f2c82.js"
+  ]
+}
